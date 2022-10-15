@@ -1,3 +1,3 @@
 # FMI_SVG_File_Shapes
 Shapes console FMI project 
-### *Конзолното приложението зарежда поддържаните от нас фигури от SVG файл, извършва дадени операции върху тях, след което записва промените обратно на диска*
+### The console application loads the shapes that we support from an SVG file, performs given operations on them, then writes the changes back to the disk
